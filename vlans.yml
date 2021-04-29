@@ -1,0 +1,17 @@
+---
+# VLAN definition for leaf switches
+vlans:
+  - id: 100
+    name: 'out-of-band-mgmt'
+  - id: 101
+    name: 'vsphere-mgmt'
+  - id: 102
+    name: 'storage-a'
+  - id: 103
+    name: 'storage-b'
+  - id: 1001
+    name: 'app1'
+  - id: 1002
+    name: 'app1'
+...
+  
