@@ -13,5 +13,7 @@ vlans:
     name: 'app1'
   - id: 1003
     name: 'app3'
+  - id: 1004
+    name: 'app3'
 ...
   
